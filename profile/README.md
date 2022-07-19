@@ -1,12 +1,20 @@
-## Hi there 👋
+# Hey, Welcome to SynTech
 
-<!--
+We are a programming team that works with about any language.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## FAQ
+
+#### Do you code in go?
+
+Yes we Code in Golang and we are even making a database in go
+
+#### Do you have a website
+
+Yes, We have a website called [syntech](syntech.lol)
+
+
+## Support
+
+For support, Join our [Discord](https://discord.gg/kV8HP2qa2j)
+
